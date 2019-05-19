@@ -1,0 +1,11 @@
+--output-directory
+out/offline
+--output-archive
+out/offline.zip
+--feed
+https://lfa.cantookstation.com/catalog/featuredresources.atom
+--authentication
+offline.auth
+--uri-rewrite-scheme
+simplified-bundled
+--squash
